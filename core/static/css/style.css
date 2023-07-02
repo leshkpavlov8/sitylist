@@ -1,0 +1,27 @@
+h1 {
+color: goldenrod;
+font-size: 40px;
+}
+
+body {
+background-color: rgb(43, 84, 126);
+}
+
+p {
+color: white;
+font-size: 25px;
+}
+
+.menu {
+background-color: pink;
+width: 12%;
+height: 100%;
+position: absolute;
+padding: 3%;
+}
+
+.main {
+width: 70%;
+margin-left: 20%;
+padding: 3%;
+}
